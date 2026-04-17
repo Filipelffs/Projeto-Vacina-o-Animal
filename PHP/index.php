@@ -1,1 +1,0 @@
-echo "Projeto de Vacinação Animal";
